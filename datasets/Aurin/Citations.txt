@@ -1,0 +1,6 @@
+Public Transport Victoria, 2019, PTV - Metro Train Stations (Points), Retrieved from https://portal.aurin.org.au on 2021-05-16
+Public Transport Victoria, 2019, PTV - Metro Bus Stops (Points), Retrieved from https://portal.aurin.org.au on 2021-05-16
+Public Transport Victoria, 2019, PTV - Metro Tram Stops (Points), Retrieved from https://portal.aurin.org.au on 2021-05-16
+Government of the Commonwealth of Australia - Australian Bureau of Statistics, 2017, SA3 Estimates of Personal Income - Income Distribution 2013-2014, Retrieved from https://portal.aurin.org.au on 2021-05-16
+Government of the Commonwealth of Australia - Australian Bureau of Statistics, 2020, ABS - Data by Region - Population & People (SA2) 2011-2019, Retrieved from https://portal.aurin.org.au on 2021-05-16
+Government of the Commonwealth of Australia - Australian Bureau of Statistics, 2020, ABS - Data by Region - Population & People (SA3) 2011-2019, Retrieved from https://portal.aurin.org.au on 2021-05-16

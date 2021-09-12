@@ -1,0 +1,11 @@
+A list of some datasets that have information towards our question
+
+ABS - Data by Region - Family & Community (SA3) 2011-2018
+ABS - Data by Region - Family & Community (SA4) 2011-2018
+ABS - Data by Region - Family & Community (GCCSA) 2011-2018
+ABS - Data by Region - Family & Community (SA2) 2011-2018
+
+PTV - Metro Tram Stops (Points)
+PTV - Metro Train Stations (Points)
+PTV - Metro Bus Stops (Points)
+PTV - Train Station Bike Storage (Points)
